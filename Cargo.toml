@@ -1,12 +1,12 @@
 [package]
-name = "imaging-smb-io"
+name = "mdat-smb-rs"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
-description = "Seekable SMB read I/O for microscopy file drivers"
-repository = "https://github.com/keejkrej/imaging-smb-io"
+description = "Seekable SMB read I/O for mdat microscopy file drivers (ND2, CZI, …)"
+repository = "https://github.com/keejkrej/mdat-smb-rs"
 readme = "README.md"
-keywords = ["smb", "microscopy", "imaging", "io"]
+keywords = ["smb", "microscopy", "mdat", "io"]
 categories = ["filesystem"]
 
 [dependencies]
